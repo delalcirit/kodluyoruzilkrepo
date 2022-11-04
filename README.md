@@ -13,3 +13,4 @@ Büyük değişiklikler için önce neyi seçmek değiştimek istediğinizi seç
 MİT
 ## Patika.dev
 [patika](https://patika.dev
+intex.html
