@@ -12,4 +12,4 @@ Büyük değişiklikler için önce neyi seçmek değiştimek istediğinizi seç
 ## License
 MİT
 ## Patika.dev
-[patika](https://www.patika.com
+[patika](https://patika.dev
